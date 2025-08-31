@@ -129,5 +129,3 @@ if __name__ == '__main__':
     parser.add_argument('--saveImages', default=False, type=lambda x: x.lower() in ['true', '1'],
                         help='whether to save visualization output as seperate images' )
     main(parser.parse_args())
-
-    main(parser.parse_args())
