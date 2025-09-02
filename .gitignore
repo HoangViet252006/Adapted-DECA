@@ -47,3 +47,7 @@ __pycache__
 cluster_scripts
 internal
 *TestSamples*
+
+My_datasets/
+dataset_DECA_cheo/
+.*
